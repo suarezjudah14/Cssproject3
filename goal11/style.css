@@ -17,8 +17,7 @@ p {
   float: right;
 }
 
-.cat img,
-.dog img {
+img {
   float: left;
 }
 

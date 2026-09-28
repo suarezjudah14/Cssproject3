@@ -1,18 +1,12 @@
-CSS ACTIVITIES - FINAL GITHUB READY
+CSS ACTIVITIES - FINAL FIXED VERSION
 
-Contents:
-- index.html (main menu for Goal 1 to Goal 11)
-- goal1 through goal11 folders
+GitHub Pages structure:
+- index.html must be in the repository root.
+- goal1 through goal11 must stay beside index.html.
 
-Goal 1 is corrected:
-- Inline CSS: Style Me in Red!
-- Internal CSS: Style Me in Red!
-- External CSS: Style Me in Green
+Verified corrections:
+- Goal 1 External: "Style Me in Green" in green.
+- Goal 5: matches the box-model target (200x200 boxes, 20px padding on first, specified borders/margins).
+- Goal 11: matches the float target (CatCSS left, DogCSS right, images floated left, footer cleared below).
 
-GitHub Pages upload:
-1. Extract this ZIP.
-2. Upload the CONTENTS of this folder directly to your GitHub repository root.
-3. Make sure index.html and goal1, goal2, ... goal11 are visible on the first repository page.
-4. Settings > Pages > Deploy from a branch > main > /(root) > Save.
-
-Do not upload this ZIP as a single file and do not put all files inside an extra folder in the repository.
+Upload the CONTENTS of this folder directly to the root of your GitHub repository.
